@@ -1,5 +1,5 @@
 from random import randint
-from BaseAI import BaseAI
+from BaseAI_3 import BaseAI
 
 
 class PlayerAI(BaseAI):
